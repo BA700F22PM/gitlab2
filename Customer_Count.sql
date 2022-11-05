@@ -3,4 +3,4 @@
 /*Count the number of customers*/
 
 select count(*) customer
-from sakila.customers;
+	from sakila.customers;
